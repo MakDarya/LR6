@@ -65,3 +65,5 @@
 
 ![Image alt](https://github.com/MakDarya/LR6/raw/reportMaklashova/images/image17.jpg)
 
+После создания отчета сохраняем его командой git add и коммитим.
+Все локальные изменения отправляем в сетевое хранилище GitHub командой git push
